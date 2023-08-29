@@ -1,1 +1,1 @@
-# Portscanner
+PortScanner" is a Python project designed to scan a target host or IP address for open ports within the range of 1 to 65535. The script utilizes the socket library to establish connections with each port and determine if it is open. It then displays the open ports, aiding in network troubleshooting or security assessment. 
